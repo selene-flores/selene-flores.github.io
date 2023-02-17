@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Russelene Flores",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/selene-flores.png",
+    "email": "russelen@hawaii.edu",
+    "phone": "",
+    "website": "https://selene-flores.github.io",
+    "summary": "I am studying for a B.S. in Computer Science with a concentration in Data Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in December, 2023.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "selene-flores", "url": "http://selene-flores.github.io" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/russelene-flores-ds" },
+      { "network": "", "username": "", "url": "" },
+      { "network": "", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Environmental Protection" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
@@ -25,19 +25,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Python", "Java", "Javascript", "R"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Computer Science (expected December, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +45,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
+      "company": "H Power Computing",
+      "position": "Computer Repair Technician",
+      "website": "https://hpowercomputing.com/",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Perform services on various devices depending on client needs",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Run diagnostics to determine source of presented issues",
+        "Complete repairs and/or maintenance for optimum performance"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Alert Alarm of Hawai'i",
+      "position": "Alarm Dispatcher",
+      "website": "https://www.alertalarmhawaii.com/",
+      "startDate": "2021-01-12",
+      "endDate": "2022-06-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Monitor systems in residential and commercial settings",
+        "Troubleshoot alarm system issues remotely"
       ]
     }
   ],
