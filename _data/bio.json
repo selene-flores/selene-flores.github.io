@@ -9,18 +9,18 @@
     "summary": "I am studying for a B.S. in Computer Science with a concentration in Data Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in December, 2023.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
-      { "network": "github", "username": "selene-flores", "url": "http://selene-flores.github.io" },
+      { "network": "github", "username": "selene-flores", "url": "http://github.com/selene-flores" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/russelene-flores-ds" },
       { "network": "", "username": "", "url": "" },
       { "network": "", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
     { "name": "Environmental Protection" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Literature" },
+    { "name": "Big Data" },
+    { "name": "Technology Ethics" }
   ],
   "skills": [
     {
@@ -71,43 +71,43 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
