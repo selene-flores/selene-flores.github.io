@@ -12,8 +12,11 @@ labels:
 
 *Love at first sight*
 
-<img width="200px" class="rounded float-start pe-4" src="../img/frameworks/reddit-screenshot.PNG">
-<img width="200px" class="rounded float-start pe-4" src="../img/frameworks/spotify-screenshot.PNG">
+<p align="center">
+<img width="200px" class="rounded" src="../img/frameworks/reddit-screenshot.PNG" float="left">
+<img width="200px" class="rounded" src="../img/frameworks/spotify-screenshot.PNG" float="right">
+</p>
+
 
 
 UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. Given that, why bother to use something like Bootstrap 5? What does one get in return for the investment of time and frustration? Why not just use raw HTML and CSS? Are the software engineering benefits of UI frameworks?
