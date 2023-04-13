@@ -13,8 +13,8 @@ labels:
 *Love at first sight*
 
 <p align="center">
-<img width="200px" class="rounded" src="../img/frameworks/reddit-screenshot.PNG" float="left">
-<img width="200px" class="rounded" src="../img/frameworks/spotify-screenshot.PNG" float="right">
+<img width="400px" class="rounded" src="../img/frameworks/reddit-screenshot.PNG" float="left">
+<img width="400px" class="rounded" src="../img/frameworks/spotify-screenshot.PNG" float="right">
 </p>
 
 
