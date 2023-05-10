@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflections"
+title: "Help Yourself"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-01
 published: true
@@ -11,9 +11,7 @@ labels:
   - Functional Programming
   - Development Environments
 ---
-
-## This Is NOT the End
-
+ 
 <p>
   Software Engineers are aptly called that because in conjunction with their technical expertise, they implement engineering principles to perform an array of tasks. They are usually responsible for the the development, testing, and maintenance of software applications. While these tasks all mention software applications, each one requires a specific skill set. For example, a software engineer must be able to write and test their code. They must possess good communication skills in order to collaborate effectively with fellow engineers, developers, data scientists, and even clients or stakeholders. They must take in data to make informed decisions towards optimizing software. These can come in forms of software updates or bug fix releases. At this point, we can conclude that software engineers are probably a very stressed group of people. Thankfully, there are a myriad of tools and practices that software engineers can pick up to better prepare them for what lies ahead. In this essay, I will touch on three of these concepts, chosen based on my level of interest.
   
