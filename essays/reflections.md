@@ -19,8 +19,8 @@ Software Engineers are aptly called that because in conjunction with their techn
 
 Proficiency in **Integrated Development Environments (IDE)** is an invaluable skill that anyone working in the tech field should have. IDEs can compile and run your code, check for errors and fix them, perform refactoring, and many more. It serves like an assistant, dealing with the more trivial tasks of the job. These trivial tasks could accumulate to hundreds of working hours if not automated. This is especially true when working with large software systems. Guess who has large software systems? Companies you want to work for. The good news is that unless specified, programmers have free rein of what IDE to use. From personal experience, each IDE I familiarized myself with became quicker to learn because I was able to apply the knowledge I’ve acquired towards the next. They typically offer the same features, after all, only differing in the graphical interfaces.
 
-<p float="center">
-  <img src="../img/reflections/eclipse.-screenshot.png" width="100" />
-  <img src="../img/reflections/intellij-screenshot.png" width="100" /> 
-  <img src="../img/reflections/netbeans.png" width="100" />
+<p align="center">
+  <img src="../img/reflections/eclipse.-screenshot.png" height="200" />
+  <img src="../img/reflections/intellij-screenshot.png" width="250" height="200" /> 
+  <img src="../img/reflections/netbeans.png" height="200" />
 </p>
