@@ -22,5 +22,5 @@ Proficiency in **Integrated Development Environments (IDE)** is an invaluable sk
 <p float="center">
   <img src="../img/reflections/eclipse.-screenshot.png" width="100" />
   <img src="../img/reflections/intellij-screenshot.png" width="100" /> 
-  <img src="../img/reflections/neatbeans.png" width="100" />
+  <img src="../img/reflections/netbeans.png" width="100" />
 </p>
