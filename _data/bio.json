@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
       { "network": "github", "username": "selene-flores", "url": "http://github.com/selene-flores" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/russelene-flores-ds" },
+      { "network": "linkedin", "username": "russelene-flores", "url": "https://www.linkedin.com/in/russelene-flores-ds" },
       { "network": "", "username": "", "url": "" },
       { "network": "", "username": "", "url": "" }
     ]
@@ -67,47 +67,18 @@
         "Monitor systems in residential and commercial settings",
         "Troubleshoot alarm system issues remotely"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Safeway",
+      "position": "Grocery Manager",
+      "website": "https://www.safeway.com/",
+      "startDate": "2020-07",
+      "endDate": "2021-03",
+      "summary": "Oversee operations of grocery department, or store when required",
       "highlights": [
-        "",
-        "",
-        ""
+        "Evaluating employees performance and productivity",
+        "Assists in planning day-to-day operations"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
