@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Russelene Flores",
+    "label": "Student",
+    "picture": "https://github.com/selene-flores.png",
+    "email": "russelen@hawaii.edu",
+    "phone": "",
+    "website": "https://selene-flores.github.io",
+    "summary": "I am studying for a B.S. in Computer Science with a concentration in Data Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in December, 2023.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
+    "profiles": [
+      { "network": "github", "username": "selene-flores", "url": "http://github.com/selene-flores" },
+      { "network": "linkedin", "username": "russelene-flores", "url": "https://www.linkedin.com/in/russelene-flores-ds" },
+      { "network": "", "username": "", "url": "" },
+      { "network": "", "username": "", "url": "" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Environmental Protection" },
+    { "name": "Literature" },
+    { "name": "Big Data" },
+    { "name": "Technology Ethics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Python", "Java", "Javascript", "R"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Computer Science (expected December, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "H Power Computing",
+      "position": "Computer Repair Technician",
+      "website": "https://hpowercomputing.com/",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Perform services on various devices depending on client needs",
+      "highlights": [
+        "Run diagnostics to determine source of presented issues",
+        "Complete repairs and/or maintenance for optimum performance"
+      ]
+    },
+    {
+      "company": "Alert Alarm of Hawai'i",
+      "position": "Alarm Dispatcher",
+      "website": "https://www.alertalarmhawaii.com/",
+      "startDate": "2021-01-12",
+      "endDate": "2022-06-01",
+      "summary": "",
+      "highlights": [
+        "Monitor systems in residential and commercial settings",
+        "Troubleshoot alarm system issues remotely"
+      ]
+    },
+    {
+      "company": "Safeway",
+      "position": "Grocery Manager",
+      "website": "https://www.safeway.com/",
+      "startDate": "2020-07",
+      "endDate": "2021-03",
+      "summary": "Oversee operations of grocery department, or store when required",
+      "highlights": [
+        "Evaluating employees performance and productivity",
+        "Assists in planning day-to-day operations"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
