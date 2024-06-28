@@ -6,7 +6,7 @@
     "email": "russelen@hawaii.edu",
     "phone": "",
     "website": "https://selene-flores.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a concentration in Data Science in the Department of Information and Computer Sciences at the University of Hawai'i. I expect to graduate in December, 2023.",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawai'i. I expect to graduate in May, 2025.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai'i" },
     "profiles": [
       { "network": "github", "username": "selene-flores", "url": "http://github.com/selene-flores" },
@@ -16,27 +16,27 @@
     ]
   },
   "interests": [
-    { "name": "Machine Learning" },
+    { "name": "Web Development" },
     { "name": "Environmental Protection" },
     { "name": "Literature" },
-    { "name": "Big Data" },
+    { "name": "Database Systems" },
     { "name": "Technology Ethics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Python", "Java", "Javascript", "R"]
+      "keywords": [ "C", "Python", "Java", "Javascript", "R", "SQL", "Bash"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++"]
+      "keywords": [ "MacOS", "Fedora", "Git/GitHub", "g++"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawai'i, Honolulu, HI",
-      "area": "Computer Science (expected December, 2023)",
-      "studyType": "B.S.",
+      "area": "Information and Computer Sciences",
+      "studyType": "B.A.",
       "startDate": "2022-08-01",
       "endDate": "Present",
       "courses": [
@@ -46,39 +46,27 @@
   "work": [
     {
       "company": "H Power Computing",
-      "position": "Computer Repair Technician",
+      "position": "Lead Technician",
       "website": "https://hpowercomputing.com/",
-      "startDate": "2015-08-01",
+      "startDate": "July 2022",
       "endDate": "Present",
-      "summary": "Perform services on various devices depending on client needs",
-      "highlights": [
-        "Run diagnostics to determine source of presented issues",
-        "Complete repairs and/or maintenance for optimum performance"
-      ]
+      "summary": "My role involves diagnosing and resolving technical issues across software, hardware, and network systems. I provide comprehensive technical support through various communication channels, document findings and solutions meticulously, and perform on-site services such as equipment configuration, server maintenance, and software installations, all while adhering to detailed documentation aligned with organizational standards.",
     },
     {
       "company": "Alert Alarm of Hawai'i",
-      "position": "Alarm Dispatcher",
+      "position": "Alarm Monitor Operator",
       "website": "https://www.alertalarmhawaii.com/",
-      "startDate": "2021-01-12",
-      "endDate": "2022-06-01",
-      "summary": "",
-      "highlights": [
-        "Monitor systems in residential and commercial settings",
-        "Troubleshoot alarm system issues remotely"
-      ]
+      "startDate": "March 2021",
+      "endDate": "May 2022",
+      "summary": "As an operator, I analyzed incoming emergency signals, promptly notified clients of these signals, and provided basic technical assistance related to their alarm systems.",
     },
     {
       "company": "Safeway",
       "position": "Grocery Manager",
       "website": "https://www.safeway.com/",
-      "startDate": "2020-07",
-      "endDate": "2021-03",
-      "summary": "Oversee operations of grocery department, or store when required",
-      "highlights": [
-        "Evaluating employees performance and productivity",
-        "Assists in planning day-to-day operations"
-      ]
+      "startDate": "July 2020",
+      "endDate": "March 2021",
+      "summary": "I managed store operations to maintain operational efficiency and adherence to company standards, overseeing scheduling, training, inventory management, quality assurance inspections. Additionally, I assisted in strategy development to improve profitability",
     }
   ],
   "references": [
